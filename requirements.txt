@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+aiofiles
+pdfplumber
+python-docx
+python-dotenv
+google-genai         # optional: direct Gemini SDK
+langchain-google-genai  # optional: LangChain provider for Gemini
+langchain
